@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("Задача 2");
         char clientOS = 1; // (0 — iOS, 1 — Android)
-        int clientYear = 2025; // год выпуска устройства
+        int clientYear = 2026; // год выпуска устройства
         selectDeviceOs(clientOS, clientYear);
 
         System.out.println("Задача 3");
